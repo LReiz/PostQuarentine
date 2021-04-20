@@ -1,8 +1,9 @@
 # Jogo: Pós Quarentena
 
 ## Instruções para Rodar o Jogo:
-1. Faça o download dos arquivos
-2. Abra o arquivo ".exe" dentro da pasta
+1. Extraia os arquivos da pasta ".zip"
+2. Faça o download dos arquivos
+3. Abra o arquivo "Pós-Pandemia.exe" dentro da pasta
 
 ## Instruções do Jogo:
 - W, A, S, D  ->  Movimentação do Personagem

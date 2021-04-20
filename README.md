@@ -10,5 +10,6 @@
 - Mouse  ->  Movimento da Câmera
 - E  ->  Interação com Objetos e Personagens em geral
 - V  ->  Vacinar um Amigo
+- T  ->  Pegar Itens do Baú
 - F  ->  Fazer Amizade
 - ESC  ->  Abrir Menu e Pausar

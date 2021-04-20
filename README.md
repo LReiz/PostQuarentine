@@ -11,3 +11,4 @@
 - E  ->  Interação com Objetos e Personagens em geral
 - V  ->  Vacinar um Amigo
 - F  ->  Fazer Amizade
+- ESC  ->  Abrir Menu e Pausar

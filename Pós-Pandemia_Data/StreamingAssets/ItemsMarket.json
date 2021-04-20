@@ -1,0 +1,22 @@
+{
+	"alcohol" : [
+		{"name": "Skol Long Neck", "image": "skol-long-neck"},
+		{"name": "Corote de Limao", "image": "corote-limao"}
+	],
+	"cereal": [
+		{"name": "Sucrilhos", "image": "sucrilhos"}
+	],
+	"canned": [
+		{"name": "Cup Noodles Cheddar", "image": "cup-noodles-cheddar"}		
+	],
+	"soda": [
+		{"name": "Dolly Guaraná", "image": "dolly-guarana"},
+		{"name": "Coca Cola Gelada", "image": "coca-cola"}
+	],
+	"dessert": [
+		{"name": "Donut Mordido", "image": "donut-mordido"}
+	],
+	"cash": [
+		{"name": "Dinheiro", "image": "dinheiro"}
+	]
+}

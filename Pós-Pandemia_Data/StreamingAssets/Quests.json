@@ -1,0 +1,13 @@
+{
+	"questsList" : [
+		{"id": "0001", "completed": "false","description": "Tomar um Banho"},
+		{"id": "0007", "completed": "false","description": "Sair de Casa"},
+		{"id": "0002", "completed": "false","description": "Arrumar um Emprego"},
+		{"id": "0003", "completed": "false","description": "Fazer um Amigo"},
+		{"id": "0004", "completed": "false","description": "Ir em uma Festa"},
+		{"id": "0008", "completed": "false","description": "Sair da Seca"},
+		{"id": "0005", "completed": "false","description": "Ficar Chapado"},
+		{"id": "0006", "completed": "false","description": "Vacinar um Amigo"},
+		{"id": "0009", "completed": "false","description": "Dar à luz ao Chefão"}
+	]
+}
